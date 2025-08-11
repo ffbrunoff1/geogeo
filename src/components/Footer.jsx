@@ -197,7 +197,7 @@ export default function Footer() {
 
               {/* CTA Button */}
               <motion.button
-                whileHover={{ scale: 1.05, boxShadow: "0 10px 20px rgba(14, 165, 233, 0.3)" }}
+                whileHover={{ scale: 1.05, boxShadow: "0 10px 20px rgba(239, 68, 68, 0.3)" }}
                 whileTap={{ scale: 0.95 }}
                 onClick={() => scrollToSection('contact')}
                 className="mt-6 bg-accent-gradient text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all duration-300 flex items-center space-x-2"
