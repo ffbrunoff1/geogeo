@@ -17,16 +17,16 @@ export default {
           900: '#0f172a',
         },
         accent: {
-          50: '#fef2f2',
-          100: '#fee2e2',
-          200: '#fecaca',
-          300: '#fca5a5',
-          400: '#f87171',
-          500: '#ef4444',
-          600: '#dc2626',
-          700: '#b91c1c',
-          800: '#991b1b',
-          900: '#7f1d1d',
+          50: '#f0f9ff',
+          100: '#e0f2fe',
+          200: '#bae6fd',
+          300: '#7dd3fc',
+          400: '#38bdf8',
+          500: '#0ea5e9',
+          600: '#0284c7',
+          700: '#0369a1',
+          800: '#075985',
+          900: '#0c4a6e',
         },
         construction: {
           50: '#f0f9ff',
@@ -48,7 +48,7 @@ export default {
         'construction-gradient':
           'linear-gradient(135deg, #64748b 0%, #475569 50%, #334155 100%)',
         'accent-gradient':
-          'linear-gradient(135deg, #ef4444 0%, #dc2626 50%, #b91c1c 100%)',
+          'linear-gradient(135deg, #0ea5e9 0%, #0284c7 50%, #0369a1 100%)',
       },
       fontFamily: {
         construction: ['Inter', 'system-ui', 'sans-serif'],
