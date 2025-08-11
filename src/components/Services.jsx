@@ -280,7 +280,7 @@ export default function Services() {
           </p>
           
           <motion.button
-            whileHover={{ scale: 1.05, boxShadow: "0 20px 25px -5px rgba(239, 68, 68, 0.3)" }}
+            whileHover={{ scale: 1.05, boxShadow: "0 20px 25px -5px rgba(14, 165, 233, 0.3)" }}
             whileTap={{ scale: 0.95 }}
             onClick={scrollToContact}
             className="bg-accent-gradient text-white px-8 py-4 rounded-xl font-semibold text-lg shadow-construction-lg hover:shadow-accent-500/25 transition-all duration-300 inline-flex items-center space-x-2"
